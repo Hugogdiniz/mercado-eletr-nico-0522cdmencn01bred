@@ -75,6 +75,7 @@
 - Amanda Barreto
 - Ariel Lopes
 - Carla Rani
+- Hugo Diniz
 - Maíra Heloísa Silva Oliveira
 
 #### [Link do repositório](https://github.com/ArielLopes888/CheckPoint)

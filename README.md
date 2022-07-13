@@ -42,4 +42,12 @@
 
 ### [Aula 19 - WPF: Revisão](./19/README.md)
 
-### [Aula 21 - Introdução à banco de dados](./21/README.md)
+### [Aula 21 - Banco de dados: Introdução](./21/README.md)
+
+### [Aula 22 - Banco de dados: Relacionamento](./22/README.md)
+
+### [Aula 23 - Banco de dados: Manipulando dados](./23/README.md)
+
+### [Em breve atualizarei o repositório...](./);
+
+### [Aula 27 - Introdução à Razor](./27/README.md)

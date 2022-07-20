@@ -1,4 +1,4 @@
-# Aula 16 - Introdução à Windows Presentation Foundation
+# Aula 16 - WPF: Introdução
 
 ## Materiais de apoio
 
